@@ -23,7 +23,7 @@
 19. Press back
 20. Install from zip file
 21. kodibae
-22. repository.kodibae-3.0.0.zip
+22. repository.kodibae-4.0.0.zip
 23. Install from repository
 24. Kodi Bae Repository
 25. Video add-ons
